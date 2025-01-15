@@ -1,6 +1,6 @@
-# neper
+# neper 
 
-neper is a Linux networking performance tool.
+Neper is a Linux networking performance tool.
 
 * Support multithreads and multi-flows out of the box.
 * Generate workload with epoll.
